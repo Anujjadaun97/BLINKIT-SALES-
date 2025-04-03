@@ -9,9 +9,9 @@ This repository contains a **Power BI dashboard** to analyze **Blinkit's** sales
 * **Time Series Analysis**: Shows revenue trends over the years.
 * **Customer Preferences**: Examines fat content preferences in sales.
 ## 📂 Files Included
- → Power BI file containing the dashboard.
-sales_data.xlsx → Sample dataset used for visualization.
-README.md → This documentation file.
+[Blinkit.pbix](url) → Power BI file containing the dashboard.\
+[BlinkIT Grocery Data.xlsx](url) → Sample dataset used for visualization.\
+[README.md](url) → This documentation file.
 ## 🛠️ Tech Stack
 * Power BI → For data visualization.
 * Excel → Data source.
